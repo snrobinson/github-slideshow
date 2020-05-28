@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Black man can, and he did 😎
 Use the left arrow to go back!
